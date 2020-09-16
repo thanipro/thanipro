@@ -1,6 +1,6 @@
 ### Hello World! 👋
 
-- 🌱 Loves PHP, Vuejs, Python
-- 🔭 Flutter, Typescript
+- 🌱 Loves PHP ( Laravel & Symfony ), Vuejs, Python, Javascript, Flutter
+- 🔭 Learning Flutter, Typescript
 
-- 📫 [Website](https://thani.pro)
+- 📫 [Thani.pro](https://thani.pro)
