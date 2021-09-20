@@ -1,3 +1,3 @@
 ### Hello World! 👋
 
-- 🌱 Loves PHP ( Laravel & Symfony ), Python, Vuejs, Flutter
+- 🌱 Loves Typescript, Python, PHP ( Laravel & Symfony ), Vuejs.
