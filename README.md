@@ -1,3 +1,3 @@
 ### Hello World! 👋
 
-- 🌱 Typescript, Python, PHP ( Laravel & Symfony ), Vuejs.
+- 🌱 Typescript, Python ( FastApi ), PHP ( Laravel & Symfony ), Vuejs.
