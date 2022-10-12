@@ -1,3 +1,3 @@
 ### Hello World! 👋
 
-- 🌱 PHP ( Laravel & Symfony ), Python ( FastApi ), Typescript, Nodejs ( Express, NestJs, AdonisJs ),  Vuejs.
+- 🌱 PHP ( Laravel & Symfony ), Python ( FastApi ), Typescript, Nodejs ( Express, NestJs, AdonisJs ),  Vuejs, Go and Rust
