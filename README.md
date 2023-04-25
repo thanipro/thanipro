@@ -1,3 +1,1 @@
-### Hello World! 👋
-
-- 🌱 PHP ( Laravel & Symfony ), Python ( FastApi ), Typescript, Nodejs ( Express, NestJs, AdonisJs ),  Vuejs, Go and Rust
+👋 Hi there, I'm Thani, a polyglot backend engineer with a passion for building robust and scalable systems.
